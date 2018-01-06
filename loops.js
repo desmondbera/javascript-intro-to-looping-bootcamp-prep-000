@@ -1,3 +1,3 @@
-forLoop( var i = 0; ) {
+forLoop(let i = 0; i < 25; i++) {
   
 }
